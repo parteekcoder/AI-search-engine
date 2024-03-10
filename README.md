@@ -18,3 +18,17 @@ This project helps to query the latest content to the Large language model using
   c) IP rotation so that our scraper will not get blocked by the website
 
 - Improving the logic for matching most similar documents with the query
+- Creating a User interface to interact with this tool
+
+## Run the project
+
+- Clone the repo
+- Create `.env` file and place your openAI API key there
+
+```
+OPENAI_API_KEY=<your-key>
+```
+
+- Run the `main.py` notebook
+
+- It will ask for your enter query. Enter the query you want to search
