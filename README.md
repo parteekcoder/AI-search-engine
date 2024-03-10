@@ -13,9 +13,10 @@ This project helps to query the latest content to the Large language model using
 ## Scope of Improvement
 
 - Improving the web scraper. This includes:
-  a) Scraping the websites which works on Client Side Rendering (CSR)
-  b) By passing captcha to access the website content
-  c) IP rotation so that our scraper will not get blocked by the website
+
+> - Scraping the websites which works on Client Side Rendering (CSR)
+> - By passing captcha to access the website content
+> - IP rotation so that our scraper will not get blocked by the website
 
 - Improving the logic for matching most similar documents with the query
 - Creating a User interface to interact with this tool
